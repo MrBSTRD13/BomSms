@@ -1,0 +1,3 @@
+z="
+";sz='yo.p';rz='on o';Hz='32;1';Cz='31;1';Gz='g='\''\';cz='kuni';gz='slee';Mz='biru';Rz='cy='\''';pz='n.py';Ez='mera';Xz='w='\''\';Zz='puti';nz='on2 ';Nz='p='\''\';oz='logi';dz='ng';kz='E/Bo';Qz='le';Iz='hija';Uz='1m'\'' ';Fz='h';Kz='b='\''\';Vz='#cya';qz='c';Tz='[36;';tz='y';lz='mSms';Yz='37;1';Pz='purp';Bz='033[';az='y='\''\';mz='pyth';hz='p 1';iz='cd /';Sz='\033';fz='r';Az='r='\''\';ez='clea';jz='$HOM';Wz='n';Lz='34;1';bz='33;1';Oz='35;1';Jz='u';Dz='m'\'' #';
+eval "$Az$Bz$Cz$Dz$Ez$Fz$z$Gz$Bz$Hz$Dz$Iz$Jz$z$Kz$Bz$Lz$Dz$Mz$z$Nz$Bz$Oz$Dz$Pz$Qz$z$Rz$Sz$Tz$Uz$Vz$Wz$z$Xz$Bz$Yz$Dz$Zz$Fz$z$az$Bz$bz$Dz$cz$dz$z$ez$fz$z$gz$hz$z$iz$jz$kz$lz$z$mz$nz$oz$pz$qz$z$gz$hz$z$iz$jz$kz$lz$z$mz$rz$sz$tz"
